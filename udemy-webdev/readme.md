@@ -1,2 +1,0 @@
-# Udemy Webdevelopment Bootcamp
-
